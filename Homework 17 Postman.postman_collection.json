@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Login",
+		
 			"request": {
 				"method": "POST",
 				"header": [],
@@ -70,7 +70,7 @@
 					"host": [
 						"qauto2",
 						"forstudy",
-						"space"
+						hello world
 					],
 					"path": [
 						"api",
